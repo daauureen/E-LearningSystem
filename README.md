@@ -1,6 +1,5 @@
 #  **E-Learning System**
 
-##  **Introduction**
 E-Learning System is a desktop-based Windows application developed in Java with Swing and AWT. This project serves students and teachers in an online learning environment.
 
 Admins can add subjects, teachers can add courses in a particular subject, and students can enroll in courses to study. Students can also communicate with other students in a course, and with teachers via the in-app messaging system.
